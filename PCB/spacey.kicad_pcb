@@ -4059,6 +4059,17 @@
 			(uuid "9e139d86-b8d3-4a27-bcb0-e1fa7e950594")
 		)
 		(embedded_fonts no)
+		(model "/Users/yekuts/Downloads/102010448/102010448.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "LED_SMD:LED_WS2812_PLCC6_5.0x5.0mm_P1.6mm"
 		(layer "F.Cu")
