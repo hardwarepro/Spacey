@@ -5,7 +5,9 @@ There are 2 main parts to this space mouse, the CAD + PCB for the keyboard, and 
 
 ## Photos
 
-<img width="826" height="633" alt="Screenshot 2025-12-12 at 1 01 20 PM" src="https://github.com/user-attachments/assets/ffcf5020-002b-46f0-a8ed-bddb9ca7e07a" />
+<img width="881" height="483" alt="Screenshot 2025-12-13 at 5 34 07 PM" src="https://github.com/user-attachments/assets/58123847-8411-4777-9804-9aada605911f" />
+
+<img width="1177" height="237" alt="Screenshot 2025-12-13 at 5 34 35 PM" src="https://github.com/user-attachments/assets/9ba71032-87fc-4404-b085-1faf94bc2e09" />
 
 <img width="1200" height="222" alt="image" src="https://github.com/user-attachments/assets/32eff032-1e1c-4419-9f0c-61a2e30d8a16" />
 
